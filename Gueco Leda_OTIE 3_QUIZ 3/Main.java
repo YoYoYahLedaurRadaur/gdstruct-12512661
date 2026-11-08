@@ -15,12 +15,6 @@ public class Main {
 
         Random random = new Random();
 
-
-
-
-
-
-
         Scanner scanner = new Scanner(System.in);
 
         ArrayQueue queue = new ArrayQueue(QUEUE_CAPACITY);
